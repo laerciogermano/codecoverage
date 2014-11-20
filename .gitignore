@@ -1,0 +1,8 @@
+
+# --------------------
+# Node Files
+# --------------------
+node_modules/
+public/minified/
+public/test
+bower_components
