@@ -51,7 +51,8 @@ module.exports = function(grunt){
 						'app.js',
 						'config.js',
 						'Gruntfile.js',
-						'routes.js'
+						'routes.js',
+						'teste/*.js'
 					]
 				}
 			}
